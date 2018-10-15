@@ -1,4 +1,7 @@
 # Habari-RSS
 
-#This Project was developed using the following Frameworks & Languages;
-1.
+# This Project was developed using the following Frameworks & Languages;
+1. Smarty Templates
+2. Bootstrap 3
+3. PHP
+4. MySQLi
